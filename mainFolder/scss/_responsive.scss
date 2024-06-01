@@ -1,0 +1,529 @@
+@media (max-width: 900px){
+    .reoveing-formate-wrapper { 
+        gap: 15px;
+    }
+    .pricing-area .procing-wrapper .pricing-item { 
+        padding: 45px 35px;
+    }
+}
+@media (max-width: 860px){
+    .background-removing-item img { 
+        max-width: 300px; 
+    }
+    .background-removing-item-two .background-removing-title h3 {
+        font-size: 30px; 
+    }
+    .background-removing-item-two .uplode-image { 
+        padding: 37px 0 47px; 
+    }
+    .reoveing-formate-item { 
+        background-size: contain; 
+    }
+    .pricing-area .procing-wrapper { 
+        gap: 20px; 
+    }
+    .pricing-area .procing-wrapper .pricing-item { 
+        background-size: contain; 
+        padding: 45px 38px;
+    } 
+}
+@media (max-width: 768px){
+    .min-container{
+        max-width: 570px; 
+    }
+    .webp-converter-heading .add-item img {
+        max-width: 100%; 
+    }
+    .convating-wrapper { 
+        gap: 15px;
+        grid-template-columns: repeat(auto-fit, minmax(134px, 1fr)); 
+    }
+    .header-wrapper { 
+        padding-left: 0;
+        gap: 20px;
+    }
+    .header-logo img { 
+        width: 155px; 
+    }
+    .header-area { 
+        padding: 20px 0;
+    }
+    .webp-converter-heading h2 { 
+        font-size: 30px; 
+    }
+    .webp-converter-area {
+        padding-top: 30px;
+    }
+    .webp-converter-heading .add-item { 
+        padding-top: 30px;
+    }
+    .file-two {
+        padding: 12px 30px !important;
+        margin-left: 15px; 
+    }
+    .file-drop-wrapper .file-one .file-img-2 {
+        padding-left: 10px;
+        width: 30px;
+    }
+    .file-drop-wrapper .file-one .file-img-3 {
+        padding-left: 10px;
+        width: 30px;
+    }
+    .file-drop-wrapper .file-one .file-img-1 {
+        padding-right: 10px;
+        width: 30px;
+    }
+    .file-drop-wrapper .file-one { 
+        font-size: 12px;
+        padding: 10px 15px; 
+    }
+    .file-two .select-dropdown__button { 
+        font-size: 12px;
+    }
+    .file-two .select-dropdown__button .fa-chevron-down { 
+        right: -14px;
+        top: 3px;
+    }
+    .simpleTo {
+        font-size: 16px; 
+    }
+    .file-three a { 
+        font-size: 12px; 
+        padding: 0px 30px;
+    }
+    .file-three {
+        margin-left: 10px; 
+        font-size: 12px;
+        padding: 13px 0px; 
+        margin-bottom: 11px; 
+        width: 110px;
+        height: 42px;
+    }
+    .file-drop-wrapper {
+        padding: 30px 0; 
+    }
+    .file-drop-wrapper .file-one .upgrade { 
+        bottom: -30px; 
+    } 
+    .convating-area {
+        padding-top: 30px; 
+    }
+    .convating-area .convating-heading { 
+        font-size: 20px; 
+        padding-bottom: 30px;
+    }
+    .convating-wrapper .convating-item h6 {
+        font-size: 14px; 
+        padding-bottom: 15px;
+    }
+    .convating-wrapper .convating-item p {
+        font-size: 12px; 
+    }
+    .convating-wrapper { 
+        padding-bottom: 30px;
+    }
+    .review-check-wrapper .review-check-item { 
+        gap: 10px;
+        .small-star{
+            width: 60px;
+        }
+        .big-star{
+            width: 100px;
+        }
+    }
+    .review-check-wrapper .review-check-item p {
+        font-size: 12px; ;
+    }
+    .review-check-footer-wrapper { 
+        gap: 10px;
+    }
+    .review-check-footer-item p {
+        font-size: 9px; 
+    }
+    .review-check-footer-item a {
+        font-size: 9px; 
+    }
+    .header-item li a {
+        font-size: 14px; 
+    }
+    .review-check-footer-area {
+        padding-top: 30px;
+    } 
+    .background-removing-item img {
+        max-width: 254px;
+    }
+    .background-removing-item-two .background-removing-title h3 {
+        font-size: 24px;
+    }
+    .background-removing-item-two .background-removing-title p {
+        font-size: 14px; 
+    }
+    .background-removing-item-two .uplode-image button {
+        font-size: 16px; 
+        padding: 8px 14px; 
+    }
+    .background-removing-item-two .uplode-image {
+        padding: 20px 0 20px;
+    }
+    .background-removing-item-two .uplode-image { 
+        margin-top: 15px;
+    }
+    .reoveing-formate-area {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .reoveing-formate-item {
+        padding: 30px 15px; 
+    }
+    .reoveing-formate-item .reoveing-formate-content span { 
+        font-size: 16px; 
+    }
+    .reoveing-formate-item .reoveing-formate-content i { 
+        font-size: 30px; 
+    }
+    .reoveing-formate-item { 
+        min-height: 128px;
+    }
+    .reoveing-formate-title h6 {
+        font-size: 18px; 
+    }
+    .reoveing-formate-title { 
+        padding-bottom: 20px;
+    }
+    .review-check-wrapper .review-check-item {
+        img{
+            max-width: 130px;
+        }
+    }
+    .pricing-area .priching-title h2 {
+        font-size: 30px; 
+    }
+    .pricing-area .priching-title h3 {
+        font-size: 18px; 
+        padding-bottom: 20px;
+    }
+    .pricing-area .procing-wrapper .pricing-item {
+        background-size: cover; 
+    }
+    .pricing-area .submitting-payment {
+        display: block;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 88px;
+        font-size: 12px; 
+    }
+    .convating-webp-item .convating-webp-item-image img {
+        width: 101px;
+        height: auto;
+    }
+    .convating-webp-item .convating-webp-item-image { 
+        padding: 26px 45px;
+    }
+    .convating-webp-item { 
+        gap: 20px;
+        padding-bottom: 20px;
+    }
+    .convating-webp-item .convating-webp-item-text h6 {
+        font-size: 18px; 
+        padding-bottom: 15px;
+    }
+    .convating-webp-item .convating-webp-item-text {
+        padding-top: 10px;
+    }
+    .login-container{
+        margin: 0 15px; 
+    }
+    .background-removing-wrapper .background-removing-video { 
+        width: 100%;
+        height: 240px; 
+    }
+}   
+@media (max-width: 570px){
+    .min-container{
+        max-width: 440px; 
+    } 
+    .sidebar-menu-ul{
+        display: block;
+        opacity: 1;
+    }
+    .header-wrapper{
+        .header-item-li{
+            display: none;
+            opacity: 0;
+        }
+    }
+    .webp-converter-heading h2 {
+        font-size: 22px;
+    }
+    .webp-converter-heading p { 
+        font-size: 12px; 
+    }
+    .file-drop-wrapper {
+        padding: 15px 0; 
+        display: block;
+    } 
+
+    .file-two { 
+        margin-left: 0;
+    }
+    .file-drop-wrapper .file-one { 
+        width: 200px;
+    }
+    .file-three { 
+        width: 200px; 
+        position: relative;
+        left: 50%;
+        transform: translate(-50%);
+        margin-left: 0;
+        margin-top: 10px; 
+        z-index: 33;
+
+    }
+    .file-drop-wrapper .file-one { 
+        margin-bottom: 45px;
+        position: relative;
+        left: 50%;
+        transform: translate(-50%);
+    }
+    .file-two {
+        margin-left: 0;
+        margin-bottom: 10px !important; 
+        position: relative;
+        z-index: 99;
+    }
+    .file-drop-wrapper { 
+        text-align: center; 
+        position: relative;
+        left: 50%;
+        transform: translate(-50%);
+    }
+    .file-two .select-dropdown { 
+        width: 100%;
+        button{
+            display: block;
+            width: 100%;
+            span{
+                display: block;
+            }
+        }
+    }
+    .file-two .select-dropdown__list { 
+        left: -13px;
+        top: 29px; 
+        width: 166px;
+    }
+    .file-three .js-dropdown-list { 
+        width: 166px; 
+        top: 13px;
+        left: 17px;
+    }
+    .file-three li {
+        font-size: 14px; 
+        text-align: left;
+    }
+    .file-two .select-dropdown__list-item { 
+        text-align: left;
+    }
+    .file-drop-wrapper { 
+        border: 2px dotted #8C8C8C;
+        border-radius: 10px;
+    }
+    .review-check-footer-wrapper {
+        display: block; 
+    }
+    .review-check-footer-item { 
+        justify-content: center;
+        margin-top: 5px;
+    }
+    .background-removing-wrapper .background-removing-video {  
+        height: auto; 
+        margin-bottom: 20px;
+    }
+    .review-check-wrapper {
+        display: block; 
+    }
+    .review-check-wrapper .review-check-item .big-star { 
+        margin-top: 5px;
+    }
+    .review-check-wrapper .review-check-item { 
+        justify-content: center;
+    } 
+    .background-removing-wrapper {
+        display: block; 
+        text-align: center;
+    }
+    .background-removing-item img {
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .reoveing-formate-item .reoveing-formate-content span {
+        font-size: 13px;
+    }
+    .reoveing-formate-item {
+        padding: 20px 15px;
+    }
+    .pricing-area {
+        padding-top: 30px;
+    }
+    .pricing-area .priching-heading h3 {
+        font-size: 16px; 
+        padding-bottom: 20px;
+    }
+    .pricing-area .price-nav a {
+        font-size: 16px; 
+    }
+    .pricing-area .price-nav { 
+        max-width: 193px; 
+        margin-bottom: 20px;
+    }
+    .pricing-area .procing-wrapper .pricing-item { 
+        padding: 30px 20px;
+    }
+    .pricing-area .priching-list {
+        padding-top: 25px;
+    }
+    .pricing-area .priching-list li { 
+        font-size: 16px; 
+        padding-bottom: 20px; 
+    }
+    .pricing-area .priching-list li::before { 
+        top: 6px; 
+    }
+    .pricing-area .submitting-payment { 
+        padding-top: 20px;
+        padding-bottom: 45px;
+        font-size: 13px;
+    }
+    .pricing-area .submitting-payment a {
+        text-decoration: underline;
+    }
+    .convating-webp-area {
+        padding-top: 30px;
+    }
+    .convating-webp-area .pagination-items {
+        padding-bottom: 30px;
+    }
+    .convating-webp-item .convating-webp-item-text h6 {
+        font-size: 16px;
+        padding-bottom: 10px;
+    }
+    .convating-webp-item .convating-webp-item-text p {
+        font-size: 12px;
+        line-height: 16px; 
+    }
+    .convating-webp-item {
+        display: block; 
+    }
+    .convating-webp-item .convating-webp-item-text { 
+        text-align: center;
+    }
+    .convating-webp-item .convating-webp-item-image {
+        padding: 20px 30px;
+        text-align: center;
+    }
+    .login-wrapper { 
+        padding: 45px;
+    }
+    .login-area {
+        margin: 30px auto 30px;
+        max-width: 747px; 
+    }
+}  
+@media (max-width: 440px){
+    // .min-container{
+    //     max-width: 320px; 
+    // }
+    .header-logo img {
+        width: 100px;
+    }
+    .sidebar-container{
+        max-width: 320px; 
+    }
+    .sidebar-menus { 
+        top: 0; 
+    }
+    .header-item li { 
+        gap: 10px;
+    }
+    .convating-area .convating-heading {
+        font-size: 16px;
+        padding-bottom: 20px;
+    }
+    .header-area {
+        padding: 15px 0;
+    }
+    .webp-converter-area {
+        padding-top: 20px;
+    }
+    .webp-converter-heading .add-item {
+        padding-top: 20px;
+    }
+    .convating-area {
+        padding-top: 20px;
+    }
+    .convating-wrapper {
+        padding-bottom: 20px;
+    }
+    .convating-wrapper { 
+        grid-template-columns: repeat(auto-fit, minmax(152px, 1fr));
+    }
+    .review-check-wrapper .review-check-item {
+        gap: 5px;
+    }
+    .review-check-wrapper .review-check-item p {
+        font-size: 9px;
+    }
+    .review-check-wrapper .review-check-item .big-star {
+        width: 80px;
+    }
+    .review-check-footer-area {
+        padding-top: 20px;
+    }
+    .review-check-footer-item {
+        display: block; 
+        text-align: center;
+    }
+    .reoveing-formate-wrapper { 
+        display: block; 
+    }
+    .reoveing-formate-area {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .reoveing-formate-item {
+        background-size: cover;
+        margin-bottom: 20px;
+        &:last-child{
+            margin-bottom: 0;
+        }
+    }
+    .reoveing-formate-item {
+        min-height: 165px;
+    }
+    .reoveing-formate-item .reoveing-formate-content span {
+        font-size: 16px;
+    }
+    .reoveing-formate-item {
+        padding: 44px 15px;
+    }
+    .login-wrapper .login-facebook span {
+        font-size: 14px; 
+    }
+    .login-wrapper .login-input-item input { 
+        font-size: 14px; 
+    }
+    .login-wrapper .login-facebook { 
+        gap: 15px; 
+    }
+    .login-wrapper .login-input-item label { 
+        top: 12px;
+        font-size: 15px; ;
+    }
+    .login-wrapper {
+        padding: 30px 20px;
+    }
+    .review-check-wrapper .review-check-item img {
+        max-width: 115px;
+    } 
+}
+ 
